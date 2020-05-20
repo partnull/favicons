@@ -1,0 +1,2 @@
+# favicons
+Platform device favicons
